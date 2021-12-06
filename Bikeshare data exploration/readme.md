@@ -11,6 +11,10 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 we will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. 
 we will write code to import the data upon user input to filter data with a dynamic user experience and answer interesting questions about it by computing descriptive statistics and visualizing these insights 
 
+### We will make use of some awesmoe python pakages to help us inspect, filter and answer the questions of interest 
+
+these pakages are .. ( Numpy, Pandas, Matplotlib and Seaborn )
+
 __________________________________________
 
 ## **The Datasets**
